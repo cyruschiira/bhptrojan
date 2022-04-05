@@ -1,2 +1,2 @@
-Cmd whoami
+get-process
 
