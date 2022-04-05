@@ -1,2 +1,2 @@
-IEX whoami
-get-host
+Cmd whoami
+
