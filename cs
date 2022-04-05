@@ -1,1 +1,2 @@
 IEX whoami
+get-host
